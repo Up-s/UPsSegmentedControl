@@ -1,0 +1,16 @@
+PODS:
+  - UPsSegmentedControl (0.1.0)
+
+DEPENDENCIES:
+  - UPsSegmentedControl (from `../`)
+
+EXTERNAL SOURCES:
+  UPsSegmentedControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UPsSegmentedControl: bc9aaec9ad687df5816ca60b8da736230726e077
+
+PODFILE CHECKSUM: d8f9c5aed179a46eaa885a824545a901b88e007d
+
+COCOAPODS: 1.10.2

@@ -1,0 +1,22 @@
+{
+  "name": "UPsSegmentedControl",
+  "version": "0.1.0",
+  "summary": "A short description of UPsSegmentedControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Up-s/UPsSegmentedControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Up-s": "dldbdjq@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Up-s/UPsSegmentedControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UPsSegmentedControl/Classes/**/*"
+}

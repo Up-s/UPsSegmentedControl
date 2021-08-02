@@ -1,0 +1,6 @@
+framework module UPsSegmentedControl {
+  umbrella header "UPsSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
