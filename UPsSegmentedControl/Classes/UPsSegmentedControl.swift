@@ -115,7 +115,7 @@ extension UPsSegmentedControl {
     self.backView.layer.masksToBounds = true
     
     self.addSubview(self.backView)
-    self.sendSubview(toBack: self.backView)
+    self.sendSubviewToBack(self.backView)
     self.backView.translatesAutoresizingMaskIntoConstraints = false
     let inset: UIEdgeInsets = self.delegate.upsSegmentInset?(self) ?? UIEdgeInsets(top: 8, left: 8, bottom: 8, right: 8)
     NSLayoutConstraint.activate([
