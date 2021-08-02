@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'UPsSegmentedControl_Example' do
+  pod 'UPsSegmentedControl', :path => '../'
+
+  target 'UPsSegmentedControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
